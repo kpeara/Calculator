@@ -9,7 +9,7 @@ public class Calculator {
     private int power() {return 0;}
 
     // utilizing tree data structure
-    // parse brackets
+    // parse brackets (attempt first without brackets)
         // search for brackets if found, look for closing, if not found generate error (create own exception?)
     // consider invalid input
     // consider saving history (database...)
